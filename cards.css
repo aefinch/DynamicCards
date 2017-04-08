@@ -1,0 +1,26 @@
+ol {
+	margin: 0;
+	padding-left: 20px;
+}
+.vocabHolder {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+.vocabBox {
+	border: solid black 2px;
+	display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+	display: inline-flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+p {
+	text-align: center;
+	margin: 0;
+    width: inherit;
+}
+.delete {
+	margin-left: 10px;
+}
